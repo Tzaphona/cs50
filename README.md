@@ -53,8 +53,6 @@ while (d <= height)
         {
         printf("%c", pound);
         }
-        
-        
     }
        // one line down - (a) //    
     for (a=height-d; a>0; a++)
